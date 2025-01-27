@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+debug.log
+error.log
+
+# Environment files
+.env
+
+# Configuration files
+ddns-config.json
+
+# Coverage directory for Jest
+coverage/
+
+# Docker-specific
+docker-compose.override.yml
+.docker/
+docker.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+
+# Build output
+dist/
+

@@ -4,6 +4,7 @@
   "description": "Node JS Script to update DNS records in Cloudflare",
   "main": "ddns.js",
   "scripts": {
+    "run": "node ./ddns.js",
     "test": "npm test"
   },
   "repository": {
